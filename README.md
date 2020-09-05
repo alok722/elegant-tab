@@ -32,7 +32,7 @@ A Google Chrome extension that replaces the existing new tab with a more useful 
 + Step 3: enable developer mode,
 + Step 4: click on Load Unpacked and select `app` folder of this repository.
 + Step 5: extension is installed and active now, Enjoy !!!
-+ to see detailed steps along with picture, click [here]('https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/')
++ to see detailed steps along with picture, click [here](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/)
 
 ## 👤 author
 
